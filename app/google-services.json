@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "978158269384",
+    "project_id": "bitmeyenodev",
+    "storage_bucket": "bitmeyenodev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978158269384:android:daec2e352690e9ad3fc6fd",
+        "android_client_info": {
+          "package_name": "com.berk.odevberk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978158269384-2i9la843luqktjhb3p1fsb6mfttl155l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGTzYEBv2vJP1NKrR2BZXXwuzvJFkFECI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978158269384-2i9la843luqktjhb3p1fsb6mfttl155l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978158269384:android:32c252ec460bad7a3fc6fd",
+        "android_client_info": {
+          "package_name": "com.example.bitmeyendev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978158269384-2i9la843luqktjhb3p1fsb6mfttl155l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGTzYEBv2vJP1NKrR2BZXXwuzvJFkFECI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978158269384-2i9la843luqktjhb3p1fsb6mfttl155l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

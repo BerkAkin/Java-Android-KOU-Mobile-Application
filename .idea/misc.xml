@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2421875" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/drawable/akademisyen_basvuru_birtanesi_arkaplan.xml" value="0.2630208333333333" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/drawable/akademisyen_buton.xml" value="0.2630208333333333" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/drawable/ana_ekran_basvuru_butonlari.xml" value="0.23748723186925433" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/drawable/basvuru_formlar_ustbilgi.xml" value="0.2421875" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/drawable/basvurubelgesi_buton_gorunumleri.xml" value="0.2421875" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/drawable/buton_gorunumleri.xml" value="0.2421875" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/drawable/buton_kenarlari.xml" value="0.11018518518518519" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/drawable/dairesel_foto.xml" value="0.2421875" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2421875" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/drawable/item.xml" value="0.1" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/drawable/metin_kutusu_kenarlari.xml" value="0.2421875" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/drawable/nav_bar_renk.xml" value="0.18055555555555555" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/drawable/navbar_buton_rengi.xml" value="0.2101851851851852" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/drawable/navbar_kenarlari.xml" value="0.13425925925925927" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/drawable/todolist.xml" value="0.21851851851851853" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/drawable/yuvarlak_foto.xml" value="0.10925925925925926" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/font/allerta.xml" value="0.2604166666666667" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/layout/activity_dnemenavi.xml" value="0.264" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/layout/activity_ogrenci_ana_ekran.xml" value="0.221875" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/layout/activity_ogrenci_yaz_okulu_basvuru.xml" value="0.221875" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/layout/activity_userlist.xml" value="0.2" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/layout/akademisyen_basvuru_tek_bilgi.xml" value="0.15384615384615385" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/layout/akademisyen_basvurular.xml" value="0.264" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/layout/akademisyen_giris.xml" value="0.264" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/layout/akademisyen_sifre_unuttum.xml" value="0.2" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/layout/content_dnemenavi.xml" value="0.264" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/layout/ders_intibaki_activity.xml" value="0.264" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/layout/ders_intibaki_basvuru.xml" value="0.1" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/layout/fragment_bavuru_yap.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/layout/fragment_ogrenci_basvuru_yap.xml" value="0.264" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/layout/fragment_ogrenci_bitbasvuru.xml" value="0.221875" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/layout/fragment_ogrenci_devbasvuru.xml" value="0.264" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/layout/giris.xml" value="0.264" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/layout/item.xml" value="0.1" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/layout/kayit_ol.xml" value="0.221875" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/layout/list_item_single.xml" value="0.4" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/layout/ogrenci_ana_ekran.xml" value="0.264" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/layout/ogrenci_biten_basvurular.xml" value="0.24270833333333333" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/layout/ogrenci_biten_basvurular_tek_bilgi.xml" value="0.2" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/layout/ogrenci_cap_basvurusu.xml" value="0.264" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/layout/ogrenci_ders_intibaki_basvuru.xml" value="0.2" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/layout/ogrenci_devam_eden_basvurular.xml" value="0.22314814814814815" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/layout/ogrenci_devam_eden_basvurular_tek_bilgi.xml" value="0.16" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/layout/ogrenci_dgs_basvuru.xml" value="0.176" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/layout/ogrenci_giris.xml" value="0.264" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/layout/ogrenci_kaydol.xml" value="0.25" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/layout/ogrenci_kayit_ol.xml" value="0.221875" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/layout/ogrenci_sifremi_unuttum.xml" value="0.264" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/layout/ogrenci_yatay_gecis_basvuru.xml" value="0.176" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/layout/ogrenci_yaz_okulu_basvuru.xml" value="0.16495575221238937" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/layout/yatay_gecis_basvuru.xml" value="0.264" />
+        <entry key="..\:/Users/berka/AndroidStudioProjects/OdevBerk/app/src/main/res/menu/nav_bar_ana_ekran.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
